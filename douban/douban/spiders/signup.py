@@ -19,8 +19,8 @@ class SignupSpider(scrapy.Spider):
             "Host": "accounts.douban.com",
         }
         data = {
-            "name": "18222796870",
-            "password": "13933098707",
+            "name": "*********",
+            "password": "********",
             "remeber": "False",
             "ck": "",
             "ticket": ""
